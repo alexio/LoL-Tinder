@@ -1,2 +1,2 @@
 # LoL-Tinder
-App for finding people to play League with.
+App for finding people to play League with. 
